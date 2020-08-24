@@ -1,0 +1,42 @@
+{
+    "producao": false,
+    "emitente": {
+        "CNPJ": "12345678000199",
+        "inscricaoMunicipal": "",
+        "inscricaoEstadual": "00000000-00",
+        "razaoSocial": "EMPRESA XPTO LTDA",
+        "fantasia": "XPTO",
+        "fone": "(11) 1111-1111",
+        "CEP": "11999000",
+        "logradouro": "R DAS EMISSOES",
+        "numero": "999",
+        "complemento": "",
+        "bairro": "VILA SEFAZ",
+        "codCidade": 2304400,
+        "cidade": "FORTALEZA",
+        "UF": "CE"
+    },
+    "certificado": {
+        "arquivoPFX": "certificados/certificado_test.pfx",
+        "senha": "123456789",
+        "numeroSerie": ""
+    },
+    "emissor": {
+        "pathSchemas": "schemas/NFe",
+        "pathArquivos": "arquivos",
+        "DANFEFastFile": "danfe_report/DANFeNFCe5_00.fr3",
+        "CSC": "ACBDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+        "responsavelTecnicoEmissao": {
+            "CNPJ": "123456780000199",
+            "contato": "Nome responsavel",
+            "email": "E-mail responsavel",
+            "fone": "11999999999"
+        },
+        "integrador": {
+            "arqLOG": "",
+            "pastaInput": "",
+            "pastaOutput": "",
+            "timeout": 0
+        }
+    }
+}
